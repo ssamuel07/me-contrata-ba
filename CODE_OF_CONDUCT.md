@@ -1,76 +1,73 @@
-# Contributor Covenant Code of Conduct
 
-## Our Pledge
+Código de conduta traduzido e baseado em: https://github.com/androiddevbr
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+*Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
-## Our Standards
+[**_ENGLISH VERSION HERE_**](README-en.md)
 
-Examples of behavior that contributes to creating a positive environment
-include:
+--
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+- [Código de Conduta](#código-de-conduta)
+- [Como participar do grupo?](#como-participar-do-grupo)
+- [Sugestões e melhorias](#sugestões-e-melhorias)
 
-Examples of unacceptable behavior by participants include:
+## Código de Conduta
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
+O repositório **Vagas Bahia** tem o objetivo de ser um lugar seguro e convidativo para pessoas independentemente de:
+- Gênero, identidade de gênero ou expressão de gênero
+- Orientação sexual
+- Restrições físicas
+- Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
+- Etnia
+- Idade
+- Religião
 
-## Our Responsibilities
+Como membro deste, você concorda que:
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+* Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
+* Nós não toleramos nenhum tipo de assédio, discriminação ou humilhação pública;
+* Nós respeitamos os limites e identidade das pessoas.
+* Nós nos abstemos de usar linguajar de cunho: sexista, racista, homofóbico, transfóbico, classista, que discrimine deficientes, etc.
+* Nós não toleramos o descumprimento das leis brasileiras.
+* Nós não toleramos pirataria e violação dos termos de uso de outros softwares e serviços.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Nós condenamos:
 
-## Scope
+* Criar perfil fingindo ser outra pessoa para fins de entretenimento, fraude ou incentivar que violações o código de conduta 
+* Perseguição, "doxxing" (investigar a vida de uma pessoa sem autorização) ou publicações indevidas de informações privadas.
+* Ameaças de todos os tipos e assédio.
+* Qualquer comportamento que comprometa a segurança dos demais membros.
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
 
-## Enforcement
+O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em banimento permanentemente em caso de reincidencia.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at . All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+A moderação se reserva o direito de verificar a autenticidade de usuários suspeito de cometer _impersonation_. A verificação será privada entre a moderação e o usuário.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
+Essa é a lista de moderadores:
 
-## Attribution
+* **Joaldo Tavares** - [@joaldotavares](https://github.com/joaldotavares)
+* **nome** - [@nome](link)
+* **nome** - [@nome](link)
+* **nome** - [@nome](link)
+* **nome** - [@nome](link)
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+### Seja gentil
 
-[homepage]: https://www.contributor-covenant.org
+Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com experiência em desenvolvimento, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. 
 
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+Preste atenção em seus posts para manter a comunicação agradável e interessante para todos.
+
+### Arquivos e links
+
+Nós não nos resposabilizamos por links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados.
+
+Não iremos tolerarar a divulgação de arquivos ou links que:
+* Violem propriedades privadas,
+* Contenham _malware_ de qualquer tipo, incluindo mas não limitando a vírus, phishing e scams,
+* Apontem para conteúdos que violem o presente Código de Conduta.
+Quaisquer mensagens que violem os pontos acima serão deletadas pelos moderadores sem prévio aviso, causando possíveis sanções ao membro que enviou a mensagem.
+
+## Sugestões e melhorias
+
+O presente Código de Conduta é um documento vivo e que conduz nosso grupo a ser melhor e maior. Por isso, estamos abertos a comentários e ajustes que podem ser propostos através de _Pull Requests_ ou _Issues_.
