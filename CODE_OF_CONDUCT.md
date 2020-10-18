@@ -3,12 +3,11 @@ Código de conduta traduzido e baseado em: https://github.com/androiddevbr
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
-[**_ENGLISH VERSION HERE_**](README-en.md)
 
 --
 
 - [Código de Conduta](#código-de-conduta)
-- [Como participar do grupo?](#como-participar-do-grupo)
+- [Como posso ajudar?](#como-posso-ajudar)
 - [Sugestões e melhorias](#sugestões-e-melhorias)
 
 ## Código de Conduta
