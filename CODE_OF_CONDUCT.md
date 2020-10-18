@@ -7,7 +7,7 @@ Código de conduta traduzido e baseado em: https://github.com/androiddevbr
 --
 
 - [Código de Conduta](#código-de-conduta)
-- [Como posso ajudar?](#como-posso-ajudar)
+- [Como posso ajudar?](https://github.com/joaldotavares/vagas-bahia/blob/master/docs/como-posso-ajudar.md)
 - [Sugestões e melhorias](#sugestões-e-melhorias)
 
 ## Código de Conduta
