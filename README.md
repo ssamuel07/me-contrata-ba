@@ -1,23 +1,30 @@
-# Releasing Open Source
+# Vagas - Bahia
 
-You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+Este repositório tem o intuito de divulgar vagas na área de tecnologia do estado da Bahia ou Remoto, via issues do GitHub.
 
-## What should be open source?
+Vagas disponíveis no link: https://github.com/joaldotavares/vagas-bahia/issues
 
-It's easier to answer this question in terms of what should **not** be open sourced:
+### Cadastrando uma vaga
 
-1. Don't open source anything that represents core business value.  If it makes us lots of money by being closed source, don't open source it.
-2. Don't open source anything that is specific to internal processes. If it won't be useful to anyone that doesn't work here, don't open source it.
-3. Don't open source anything you can't commit to maintaining long-term. Some projects are inherently difficult to maintain. If you don't want to spend time accepting contributions and working with the open source community, don't open source it.
+É bem simples, é só criar uma **issue** no link: https://github.com/joaldotavares/vagas-bahia/issues/new
 
-## Open Source Maintainer Expectations
+A issue já possui um template específico, basta você editá-lo como desejar. No título da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa, exemplo:
 
-Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
+`[Cidade] Desenvolvedor Android [JUNIOR|PLENO|SENIOR] | ACME LTDA`
 
-## FAQ
+Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
 
-#### Who owns the code I contribute to open source projects?
+### Código de Conduta
+Visando manter a transparência com todos os membros de nossa comunidade, além de obedecer o [Código de Conduta](https://github.com/joaldotavares/vagas-bahia/blob/master/docs/CODE_OF_CONDUCT.md), as vagas postadas nesse mural devem seguir as regras descritas a seguir.
 
-## License
+#### Todas as vagas devem conter o nome da empresa que está contratando
+Se você é um recrutador, você deve identificar o nome da empresa em que o candidato irá trabalhar.
 
-This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+### Só serão permitidas vagas para o estado da Bahia ou remoto
+O repositório é voltado para vagas no estado e remoto, como exceção. Existem outros repositorios onde podem ser encontrada vagas para todo o país.
+
+#### As vagas devem ser reais
+Não serão aceitas empresas montando banco de currículos.
+
+#### O tempo de permanencia das issue
+Solicitamos que as issues sejam fechadas após o preenchimento da vaga. A fim de previnir o _não fechamento das issues_, todas as issues serão fechadas após 3 meses(90 dias), independende da vaga ter sido preenchida ou não. 
