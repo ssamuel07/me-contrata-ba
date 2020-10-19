@@ -1,10 +1,7 @@
 
-Código de conduta traduzido e baseado em: https://github.com/androiddevbr
+Código de conduta baseado em: https://github.com/androiddevbr
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
-
-
---
 
 - [Código de Conduta](#código-de-conduta)
 - [Como posso ajudar?](https://github.com/joaldotavares/vagas-bahia/blob/master/docs/como-posso-ajudar.md)
@@ -45,15 +42,14 @@ A moderação se reserva o direito de verificar a autenticidade de usuários sus
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
 Essa é a lista de moderadores:
 
+* **Felipe Gomes** - [@felipegomss](https://github.com/felipegomss)
 * **Joaldo Tavares** - [@joaldotavares](https://github.com/joaldotavares)
-* **nome** - [@nome](link)
-* **nome** - [@nome](link)
-* **nome** - [@nome](link)
-* **nome** - [@nome](link)
+* **Renato Oliveira** - [@renatooliveira98](https://github.com/renatooliveira98)
+* **Yla Buri** - [@YlaBuri](https://github.com/YlaBuri)
 
 ### Seja gentil
 
-Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com experiência em desenvolvimento, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. 
+Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com experiência em desenvolvimento, bem como iniciantes que acabaram de conhecer o repositório. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. 
 
 Preste atenção em seus posts para manter a comunicação agradável e interessante para todos.
 
