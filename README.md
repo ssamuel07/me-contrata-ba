@@ -6,7 +6,7 @@ Vagas disponíveis no link: https://github.com/joaldotavares/vagas-bahia/issues
 
 ### Cadastrando uma vaga
 
-É bem simples, é só criar uma **issue** no link: https://github.com/joaldotavares/vagas-bahia/issues/new
+É bem simples, é só criar uma **issue** no link: [Nova issue](https://github.com/joaldotavares/vagas-bahia/issues/new?assignees=&labels=&template=issue-template.md&title=)
 
 A issue já possui um template específico, basta você editá-lo como desejar. No título da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa, exemplo:
 
