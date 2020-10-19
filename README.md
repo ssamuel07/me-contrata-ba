@@ -2,7 +2,7 @@
 
 Este repositório tem o intuito de divulgar vagas na área de tecnologia do estado da Bahia ou Remoto, via issues do GitHub.
 
-Vagas disponíveis no link: https://github.com/joaldotavares/vagas-bahia/issues
+Vagas disponíveis no link: [Vagas](https://github.com/joaldotavares/vagas-bahia/issues)
 
 ### Cadastrando uma vaga
 
