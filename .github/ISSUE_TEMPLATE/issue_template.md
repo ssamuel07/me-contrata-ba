@@ -1,12 +1,3 @@
----
-name: issue_template
-about: Issue template
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # Informações importantes
 Para que as vagas enviadas neste mural sejam categorizadas com as labels, as mesmas devem seguir as seguintes regras:
 1. Todas as vagas enviadas neste mural devem estar de acordo com o Código De Conduta da nossa comunidade: [Código de conduta](https://github.com/joaldotavares/vagas-bahia/blob/master/CODE_OF_CONDUCT.md). Vagas que violem este Código de Conduta serão automaticamente editadas e encerradas pela equipe de moderação.
