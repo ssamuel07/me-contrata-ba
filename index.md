@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Me Contrata BA - Paradigmas e Ferramentas de Engenharia de Software
 
-You can use the [editor on GitHub](https://github.com/ssamuel07/me-contrata-ba/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GitPages criada para auxiliar aos usuários na abertura de issue para [me-contrata-ba](https://github.com/joaldotavares/me-contrata-ba).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Issues
 
-### Markdown
+Para adicionar sua vaga, bas seguir o seguinte [tutorial](https://github.com/joaldotavares/me-contrata-ba/blob/master/README.md).
+  
+**A adição de labels não está disponível para quem não é contribuidor no projeto, por isso, seja o mais claro possível e coloque todas as informações possíveis para que a equipe possa adequar seu chamado corretamente, e resolver da melhor maneira possível**</br></br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contribuição
 
-```markdown
-Syntax highlighted code block
+Para contribuições você pode seguir esse [tutorial](https://github.com/portabilis/i-educar/blob/2.4/contributing.md). A Portabilis informa que as contribuições são super bem vindas! Nesse tutorial você encontra tudo que precisa para:</br>
 
-# Header 1
-## Header 2
-### Header 3
+  **1.** _Indicando melhorias_</br>
+  **2.** _Discutindo as issues_</br>
 
-- Bulleted
-- List
+### Suporte
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssamuel07/me-contrata-ba/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para mais informações sobre o me contrata, acesse [me-contrata-ba](https://github.com/joaldotavares/me-contrata-ba).
+Dá uma olhada nas [issues](https://github.com/joaldotavares/me-contrata-ba/issues) abertas para ter um noção de como fazer a sua.</br>
