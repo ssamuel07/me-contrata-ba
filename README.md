@@ -2,7 +2,7 @@
 
 Este repositório tem o intuito de divulgar vagas na área de tecnologia do estado da Bahia ou Remoto, utilizando o GitHub Pages.
 
-Vagas disponíveis [Aqui](https://github.com/ssamuel07/me-contrata-ba/tree/gh-pages)
+Vagas disponíveis no [pages](https://ssamuel07.github.io/me-contrata-ba/) ou na nossa [branch](https://github.com/ssamuel07/me-contrata-ba/tree/gh-pages)
 
 ### Cadastrando uma vaga
 
