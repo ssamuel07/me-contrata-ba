@@ -6,9 +6,9 @@ Vagas disponíveis [Aqui](https://github.com/ssamuel07/me-contrata-ba/tree/gh-pa
 
 ### Cadastrando uma vaga
 
-É bem simples, é só usar copiar o conteudo de um [modelo](https://github.com/ssamuel07/me-contrata-ba/blob/gh-pages/modelo-vaga.md), criar um nova arquivo dentro dessa branch e pronto. 
+É bem simples, é só usar copiar o conteudo de um [modelo](https://github.com/ssamuel07/me-contrata-ba/blob/gh-pages/modelo-vaga.md), criar um novo arquivo dentro dessa branch e pronto, seu pull request vai ser analisado e aceito por um dos administradores. 
 
-Essa branch já possui um template específico, basta você editá-lo como desejar. No título do arquivo, coloque o foco da vaga e o cargo, por exemplo "JAVA-SENIOR", isso vai ajudar na oorganização e na identificação das vagas.
+Essa branch já possui um template específico, basta você editá-lo como desejar. No título do arquivo, coloque o foco da vaga e o cargo, por exemplo "JAVA-SENIOR.md", isso vai ajudar na organização e na identificação das vagas.
 
 ### Código de Conduta
 Visando manter a transparência com todos os membros de nossa comunidade, além de obedecer o [Código de Conduta](https://github.com/joaldotavares/vagas-bahia/blob/master/docs/CODE_OF_CONDUCT.md), as vagas postadas nesse mural devem seguir as regras descritas a seguir.
