@@ -1,12 +1,12 @@
 ## Bem vindo ao Me Contrata BA
 
-Estão listadas abaixo todas as vagas disponivéis.
+Estão listadas abaixo todas as vagas disponíveis.
 
 ## Vagas
 
 | Descrição  |  Link da vaga  |
 | ------------------- | :-------------------: |
-|  Desenvlvedor Java Junior |  [link](https://github.com/ssamuel07/me-contrata-ba/blob/gh-pages/JAVA-JUNIOR.md) |
+|  Desenvolvedor Java JR |  [link](https://github.com/ssamuel07/me-contrata-ba/blob/gh-pages/JAVA-JUNIOR.md) |
 
 ### Contribuição
 
@@ -17,4 +17,4 @@ Você ainda pode checar o [como posso ajudar](https://github.com/ssamuel07/me-co
 ### Suporte
 
 Para mais informações sobre o Me contrata, acesse [me-contrata-ba](https://github.com/joaldotavares/me-contrata-ba).
-Dá uma olhada nas [vagas](https://github.com/ssamuel07/me-contrata-ba/tree/gh-pages) abertas para ter um noção de como fazer a sua.</br>
+Dá uma olhada nas [vagas](https://github.com/ssamuel07/me-contrata-ba/tree/gh-pages) abertas para ter um noção de como fazer a sua.
